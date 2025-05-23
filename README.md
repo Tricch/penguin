@@ -1,1 +1,1 @@
-https://tricch.github.io/penguin
+https://tricch.github.io/penguin/
